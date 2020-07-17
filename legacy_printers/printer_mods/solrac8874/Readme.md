@@ -1,0 +1,4 @@
+|Solrac |[Cable Chain Mount Remix](./Solrac/CableChainMount-Remix) | Remix of cable chain anchors by manfre & by warriorofwire |:grey_question: |:grey_question: | :heavy_check_mark:|
+| |[Double Door Hinge Remix](./Solrac/DoubleDoorHinge-Remix) | Remix of nemgrea's Magnetic Split Front Door Mod using 8x3mm round magnets |:grey_question: |:grey_question: | :heavy_check_mark:|
+| |[SkirtMods](./Solrac/SkirtMods) | SkirtMods - MainsPlugRemix of Sparreau, SideSkirt w/ 40mm FanMount |:grey_question: |:grey_question: | :heavy_check_mark:|
+| |[ElectronicsMods](./Solrac/ElectronicsMods) | Double (2x) Mount for LM2596S BuckConverter w/ LCD |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
