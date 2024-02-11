@@ -365,6 +365,7 @@ Printer mods for Voron 3D printers
 |  | [ssd_bracket](slitte/ssd_bracket) | bracket for mounting a 2.5" ssd to a din rail | V2.4, VT | 2024-01-08T16:38:25+00:00 |
 | sloscotty | [Switchwire Wall Plate](sloscotty/SW_Wall_Plate) | SW plate for enclosure | VSW | 2024-01-08T16:38:25+00:00 |
 |  | [NoNutz TopHat Cam Extension](sloscotty/TopHat_Cam_Extension) | Tophat extension with integrated webcam for V0/0.1 | V0.2 | 2024-01-08T16:38:25+00:00 |
+| solrac8874 | [Voron2.4_Skirt_Mods](solrac8874/Voron2.4_Skirt_Mods) | Voron 2.4 middle side skirt mods designed to either go fanless or allow use of a 40mm fan instead of the default 60mm. | V2.4
 | spacelab2021 | [Orbiter Clockwork Mount](spacelab2021/Orbiter-Clockwork) | A clockwork adaptor for the Orbiter v1.5 Extruder with full... | V1.8, V2.4, VSW, VT | 2024-01-08T16:38:25+00:00 |
 | Spaghetti-Bolognese | [LCD Case Mod](Spaghetti-Bolognese/LCD_case_mod) | Improvements to the V2.4 mini12864 LCD case inc E-stop button cover | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [Simplified Z Drive Motor Mount](Spaghetti-Bolognese/Z_drive_motor_mount) | Z drive motor mount bracket mod to improve pulley to belt alignment | V2.4 | 2024-01-08T16:38:25+00:00 |
