@@ -2298,6 +2298,17 @@
         "last_changed": "2024-01-08T16:38:25+00:00"
     },
     {
+        "path": "aeresov/ballpoint-pen-spring-DIN-clips",
+        "title": "Ballpoint pen spring DIN clips",
+        "creator": "aeresov",
+        "description": "Assortment of mechanical DIN clips using common ballpoint pen springs.",
+        "printer_compatibility": [
+            "V2.4r2",
+            "VT"
+        ],
+        "last_changed": "2024-06-19T10:47:27+00:00"
+    },
+    {
         "path": "aeresov/cable_tie_DIN_mount",
         "title": "cable tie DIN mount",
         "creator": "aeresov",
@@ -3684,6 +3695,16 @@
         "last_changed": "2024-01-25T17:26:27+00:00"
     },
     {
+        "path": "ppak10/Enclosed_Z_Chain_Guide",
+        "title": "Enclosed Z-Chain Guide",
+        "creator": "ppak10",
+        "description": "Supports Z-Chain from both sides and keeps it from sliding around, especially for taller builds.",
+        "printer_compatibility": [
+            "V2.4r2"
+        ],
+        "last_changed": "2024-05-08T21:51:38+00:00"
+    },
+    {
         "path": "prasadp4009/SW_SB_CRTouch",
         "title": "StealthBurner CR Touch Mod",
         "creator": "prasadp4009",
@@ -3981,6 +4002,16 @@
             "V2.4"
         ],
         "last_changed": "2024-01-08T16:38:25+00:00"
+    },
+    {
+        "path": "sgr33n/300mm-x-extrusion-endcap",
+        "title": "300mm X-Extrusion Endcap",
+        "creator": "sgr33n",
+        "description": "This mod makes stabler and prettier the use of a 300mm profile for the X-Extrusion.",
+        "printer_compatibility": [
+            "VSW"
+        ],
+        "last_changed": "2024-05-26T21:49:13+00:00"
     },
     {
         "path": "slitte/PCB_Probe",

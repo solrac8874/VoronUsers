@@ -18,7 +18,8 @@ Printer mods for Voron 3D printers
 |  | [Exhaust filter housing - side...](42bios/exhaust_filter_housing_side) | Exhaust filter housing with the G1-8 "thread on the side. | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [relay mount](42bios/relay_mount) | relay-mount for 2x 2 channel relay modules. | V2.4 | 2024-01-08T16:38:25+00:00 |
 | ademuri | [Lights, Camera, Voron](ademuri/Lights_Camera_Voron) | A mount for LED strips and Picam for the V0.1 | V0.2 | 2024-01-08T16:38:25+00:00 |
-| aeresov | [cable tie DIN mount](aeresov/cable_tie_DIN_mount) | A bracket for cable ties to route cables across DIN rails. | V2.4 | 2024-01-08T16:38:25+00:00 |
+| aeresov | [Ballpoint pen spring DIN clips](aeresov/ballpoint-pen-spring-DIN-clips) | Assortment of mechanical DIN clips using common ballpoint pen springs. | V2.4r2, VT | 2024-06-19T10:47:27+00:00 |
+|  | [cable tie DIN mount](aeresov/cable_tie_DIN_mount) | A bracket for cable ties to route cables across DIN rails. | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [MeanWell UHP-xxx DIN mount](aeresov/MeanWell_UHP_DIN_mount) | A bracket for MeanWell UHP series PSU (200, 350 and 500) to mount... | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [Raspberry Pi DIN mount](aeresov/Raspberry_Pi_DIN_mount) | A bracket for Raspberry Pi 3/4 to mount it onto DIN rail, along or... | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [SKR 1.3/1.4 DIN mount](aeresov/SKR_DIN_mount) | A bracket for SKR 1.3/1.4 board to mount it onto DIN rail, along or... | V2.4 | 2024-01-08T16:38:25+00:00 |
@@ -321,6 +322,7 @@ Printer mods for Voron 3D printers
 | Polared | [Power Inlet with Keystone Insert](Polared/Power_Inlet_w_Keystone_Insert) | Voron 0.1 Power inlet with keystone insert slot | V0.2 | 2024-01-08T16:38:25+00:00 |
 | ponkotsu1 | [V0 Launchpad Skirt](ponkotsu1/V0_Launchpad_Skirt) | Another style V0 skirt | V0 | 2024-01-08T16:38:25+00:00 |
 | ppak10 | [Cable Port Flush Mount Skirt](ppak10/Cable_Port_Flush_Mount_Skirt) | Provides an inlet to mount BATIGE circular cable adapter ports on... | V2.4r2 | 2024-01-25T17:26:27+00:00 |
+|  | [Enclosed Z-Chain Guide](ppak10/Enclosed_Z_Chain_Guide) | Supports Z-Chain from both sides and keeps it from sliding around,... | V2.4r2 | 2024-05-08T21:51:38+00:00 |
 | prasadp4009 | [StealthBurner CR Touch Mod](prasadp4009/SW_SB_CRTouch) | Voron SW StealthBurner CR Touch Mod | VSW | 2024-01-08T16:38:25+00:00 |
 | Printopal | [Magnetic top panel](Printopal/Magnetic_top_panel) | Top panel with magnets allows for quick installation and removal | V1.8, V2.4 | 2024-01-08T16:38:25+00:00 |
 | PsychoShaft | [C92X_PsycHoShafts_Mount](PsychoShaft/C92X_PsycHoShafts_Mount) | 2020 Top profile 920 camera mount / 2 point axis pivot | V1.8, V2.4, VT | 2024-01-08T16:38:25+00:00 |
@@ -358,6 +360,7 @@ Printer mods for Voron 3D printers
 | scanlory | [Clip-On Front Door Frame](scanlory/clip_on_door_frame) | Clip-on frame to stiffen and seal front door panels when using... | V2.4 | 2024-01-08T16:38:25+00:00 |
 | ScramblerUSA | [Side Skirt Power Switch](ScramblerUSA/SideSkirtPowerSwitch) | Skirt-mounted rocker switch for easy access for Voron 2.4 | V2.4 | 2024-01-08T16:38:25+00:00 |
 | See1807 | [TopHat Exhaust and LED Light](See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | V0.2 | 2024-01-08T16:38:25+00:00 |
+| sgr33n | [300mm X-Extrusion Endcap](sgr33n/300mm-x-extrusion-endcap) | This mod makes stabler and prettier the use of a 300mm profile for... | VSW | 2024-05-26T21:49:13+00:00 |
 | Shiftingtech | [Trident Dual Power Switch](Shiftingtech/Trident_dual_power_switch) | A replacement skirt, allowing 2 power switches | VT | 2024-01-08T16:38:25+00:00 |
 | ShinyPants | [OrangePi 3 LTS DIN Rail bracket](ShinyPants/Orange_Pi_3_LTS_DIN) | A DIN rail mount for OrangePi LTS 3 | V1.8, V2.4, VT | 2024-01-08T16:38:25+00:00 |
 | Shteeeeeve | [V0.1 LED Tophat](Shteeeeeve/V01-LED-Tophat) | V0.1 LED Tophat w/ 24V LED Lightstrip | V0.2 | 2024-01-08T16:38:25+00:00 |
