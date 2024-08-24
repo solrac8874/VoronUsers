@@ -1929,6 +1929,17 @@
         "last_changed": "2024-01-08T16:38:25+00:00"
     },
     {
+        "path": "RikersBeard/RS-50-5_Bracket",
+        "title": "RS-50-5 PSU Bracket",
+        "creator": "RikersBeard",
+        "description": "A Meanwell RS-50-5 PSU DIN rail mount bracket.",
+        "printer_compatibility": [
+            "V2.4r2",
+            "VT"
+        ],
+        "last_changed": "2024-07-04T20:34:19+00:00"
+    },
+    {
         "path": "RockNLol/RockNRoll",
         "title": "RockNRoll",
         "creator": "RockNLol",
@@ -2186,6 +2197,16 @@
             "V0.2"
         ],
         "last_changed": "2024-01-08T16:38:25+00:00"
+    },
+    {
+        "path": "ZZP8202/Double_GEAR_ratio_Z",
+        "title": "Double_GEAR_ratio_Z",
+        "creator": "ZZP8202",
+        "description": "Double_GEAR_ratio_Z_belt_assembly_with_spherical_bearing_connection",
+        "printer_compatibility": [
+            "V2.4"
+        ],
+        "last_changed": "2024-07-14T14:53:20+00:00"
     },
     {
         "path": "ZZP8202/Pull-out_electrical_store",

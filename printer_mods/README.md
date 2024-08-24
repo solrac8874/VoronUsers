@@ -342,6 +342,7 @@ Printer mods for Voron 3D printers
 |  | [LED 15.5mm quarter round mounts](richardjm/led-mounts) | Mounting corners with integrated cable runs for 15.5mm quarter... | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [Picam corner mount](richardjm/picam-corner) | Out of the way corner mounted picam | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [Printable snap latches for 2020...](richardjm/snap-latch-2020) | Quick release panel latch inspired by the work of others. | V2.4 | 2024-01-08T16:38:25+00:00 |
+| RikersBeard | [RS-50-5 PSU Bracket](RikersBeard/RS-50-5_Bracket) | A Meanwell RS-50-5 PSU DIN rail mount bracket. | V2.4r2, VT | 2024-07-04T20:34:19+00:00 |
 | rngSplat | [Printable Switchwire Deck Plate](rngSplat/SW_Deck_Plate) | Print a deck plate for Switchwire with debossed Voron logo | VSW | 2024-01-08T16:38:25+00:00 |
 | roboticator24 | [Touchscreen for OctoDash](roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual... | V2.4 | 2024-01-08T16:38:25+00:00 |
 | RockNLol | [RockNRoll](RockNLol/RockNRoll) | Rockers to roll the printer on its back for easier access to the... | V2.4 | 2024-01-08T16:38:25+00:00 |
@@ -439,4 +440,5 @@ Printer mods for Voron 3D printers
 |  | [V0 MidPanel HexPattern](Zen3D/V0_MidPanel_HexPattern) | Voron0 MidPanel with Hex pattern and Wire cover | V0.2 | 2024-01-08T16:38:25+00:00 |
 |  | [V0 Skirt set](Zen3D/V0_Skirt) | SSR, PowerSwitch, Adxl, Nameplate and color change printing | V0.2 | 2024-01-08T16:38:25+00:00 |
 | zruncho | [V0 No-Drop Nuts](zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | V0.2 | 2024-01-08T16:38:25+00:00 |
-| ZZP8202 | [Pull-out electrical store](ZZP8202/Pull-out_electrical_store) | Voron 2.4 Pull-out electrical store（350mm only） | V2.4 | 2024-01-08T16:38:25+00:00 |
+| ZZP8202 | [Double_GEAR_ratio_Z](ZZP8202/Double_GEAR_ratio_Z) | Double_GEAR_ratio_Z_belt_assembly_with_spherical_bearing_connection | V2.4 | 2024-07-14T14:53:20+00:00 |
+|  | [Pull-out electrical store](ZZP8202/Pull-out_electrical_store) | Voron 2.4 Pull-out electrical store（350mm only） | V2.4 | 2024-01-08T16:38:25+00:00 |
